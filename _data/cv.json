@@ -33,31 +33,19 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Sardar Vallabhbhai National Institute of Technology",
+      "area": "Integrated M.Sc (Mathematics)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2020",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
+    
+    }
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+   
     }
   ],
   "skills": [],

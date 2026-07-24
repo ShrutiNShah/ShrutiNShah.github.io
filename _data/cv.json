@@ -41,14 +41,8 @@
       "gpa": null,
       "courses": []
     },
-    {
-    
-    }
-    {
-   
-    }
   ],
-  "skills": [],
+  "skills": [ {Python}, {MATLAB},],
   "languages": [],
   "interests": [],
   "references": [],
